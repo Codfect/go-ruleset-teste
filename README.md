@@ -1,1 +1,1 @@
-# go-ruleset-teste
+Go test
